@@ -1,0 +1,91 @@
+Info: Processing symbol 'C1:Shutter_current_limit_parts:100Uf 35V'.
+Info: Processing symbol 'D1:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D2:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D3:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D4:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D5:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D6:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D7:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D8:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D9:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D10:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D11:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D12:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D13:Shutter_current_limit_parts:diode_70HF120'.
+Info: Processing symbol 'D14:Shutter_current_limit_parts:diode_70HFR120_1'.
+Info: Processing symbol 'J1:Shutter_current_limit_parts:Conn_01x02_PWR'.
+Info: Processing symbol 'R5:Shutter_current_limit_parts:Resister .25 W'.
+Info: Processing symbol 'R6:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'J2:Shutter_current_limit_parts:Conn_01x02'.
+Info: Processing symbol 'J3:Shutter_current_limit_parts:Conn_01x02'.
+Info: Processing symbol 'R7:Shutter_current_limit_parts:Resister .25 W'.
+Info: Processing symbol 'R8:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'J4:Shutter_current_limit_parts:Conn_01x02_PWR'.
+Info: Processing symbol 'R9:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'K_coil1:Shutter_current_limit_parts:Conn_01x02'.
+Info: Processing symbol 'R10:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R11:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'K_coil2:Shutter_current_limit_parts:Conn_01x02'.
+Info: Processing symbol 'R12:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R13:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'K_cont1:Shutter_current_limit_parts:Conn_01x02'.
+Info: Processing symbol 'R14:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R15:Shutter_current_limit_parts:Resistor_0.10_ohm_25W'.
+Info: Processing symbol 'K_cont2:Shutter_current_limit_parts:Conn_01x02'.
+Info: Processing symbol 'RV1:Shutter_current_limit_parts:POT'.
+Info: Processing symbol 'U1:Shutter_current_limit_parts:LM358'.
+Info: Processing symbol 'Q1:Shutter_current_limit_parts:BS170'.
+Info: Processing symbol 'Q2:Shutter_current_limit_parts:BS170'.
+Info: Processing symbol 'Q3:Shutter_current_limit_parts:BS170'.
+Info: Processing symbol 'Q4:Shutter_current_limit_parts:BS170'.
+Info: Processing symbol 'Q5:Shutter_current_limit_parts:BS170'.
+Info: Processing symbol 'Q6:Shutter_current_limit_parts:BS170'.
+Info: Processing symbol 'R1:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R2:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R3:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R4:Shutter_current_limit_parts:Resister .25 W'.
+Warning: No net found for component J1 pad 2 (no pin 2 in symbol).
+Warning: No net found for component J1 pad 1 (no pin 1 in symbol).
+Warning: No net found for component J3 pad 1 (no pin 1 in symbol).
+Warning: No net found for component J3 pad 2 (no pin 2 in symbol).
+Warning: No net found for component J4 pad 2 (no pin 2 in symbol).
+Warning: No net found for component K_coil1 pad 2 (no pin 2 in symbol).
+Warning: No net found for component K_coil1 pad 1 (no pin 1 in symbol).
+Warning: No net found for component K_coil2 pad 2 (no pin 2 in symbol).
+Warning: No net found for component K_coil2 pad 1 (no pin 1 in symbol).
+Warning: No net found for component K_cont1 pad 2 (no pin 2 in symbol).
+Warning: No net found for component K_cont1 pad 1 (no pin 1 in symbol).
+Warning: No net found for component K_cont2 pad 1 (no pin 1 in symbol).
+Warning: No net found for component K_cont2 pad 2 (no pin 2 in symbol).
+Warning: No net found for component R7 pad 4 (no pin 4 in symbol).
+Warning: No net found for component R7 pad 5 (no pin 5 in symbol).
+Warning: No net found for component R5 pad 5 (no pin 5 in symbol).
+Warning: No net found for component R5 pad 4 (no pin 4 in symbol).
+Warning: No net found for component R4 pad 4 (no pin 4 in symbol).
+Warning: No net found for component R4 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U1 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U1 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U1 pad 7 (no pin 7 in symbol).
+Error: Symbol J1 has pins with no number.  These pins can not be matched to pads in Shutter_current_limit_parts:Conn_01x02_PWR.
+Error: Symbol J1 has pins with no number.  These pins can not be matched to pads in Shutter_current_limit_parts:Conn_01x02_PWR.
+Error: Symbol J3 has pins with no number.  These pins can not be matched to pads in Shutter_current_limit_parts:Conn_01x02.
+Error: Symbol J3 has pins with no number.  These pins can not be matched to pads in Shutter_current_limit_parts:Conn_01x02.
+Error: K_coil1 pad 85 not found in Shutter_current_limit_parts:Conn_01x02.
+Error: K_coil1 pad 86 not found in Shutter_current_limit_parts:Conn_01x02.
+Error: K_coil2 pad 85 not found in Shutter_current_limit_parts:Conn_01x02.
+Error: K_coil2 pad 86 not found in Shutter_current_limit_parts:Conn_01x02.
+Error: K_cont1 pad 30 not found in Shutter_current_limit_parts:Conn_01x02.
+Error: K_cont1 pad 87A not found in Shutter_current_limit_parts:Conn_01x02.
+Error: K_cont1 pad 87 not found in Shutter_current_limit_parts:Conn_01x02.
+Error: K_cont2 pad 30 not found in Shutter_current_limit_parts:Conn_01x02.
+Error: K_cont2 pad 87A not found in Shutter_current_limit_parts:Conn_01x02.
+Error: K_cont2 pad 87 not found in Shutter_current_limit_parts:Conn_01x02.
+Error: R4 pad 1 not found in Shutter_current_limit_parts:Resister .25 W.
+Error: R4 pad 2 not found in Shutter_current_limit_parts:Resister .25 W.
+Error: R5 pad 2 not found in Shutter_current_limit_parts:Resister .25 W.
+Error: R5 pad 1 not found in Shutter_current_limit_parts:Resister .25 W.
+Error: R7 pad 2 not found in Shutter_current_limit_parts:Resister .25 W.
+Error: R7 pad 1 not found in Shutter_current_limit_parts:Resister .25 W.
+
+
+Info: Total warnings: 22, errors: 20.

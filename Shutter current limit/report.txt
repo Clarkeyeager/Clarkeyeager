@@ -1,0 +1,82 @@
+Info: Processing symbol 'C1:Shutter_current_limit_parts:100Uf 35V'.
+Info: Processing symbol 'D1:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D2:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D3:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D4:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D5:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D6:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D7:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D8:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D9:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D10:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D11:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D12:Shutter_current_limit_parts:1N4001'.
+Info: Processing symbol 'D13:Shutter_current_limit_parts:diode_70HF120'.
+Info: Processing symbol 'D14:Shutter_current_limit_parts:diode_70HFR120'.
+Info: Processing symbol 'J1:Shutter_current_limit_parts:Conn_01x02_PWR'.
+Info: Processing symbol 'J2:Shutter_current_limit_parts:Con_1x1'.
+Info: Processing symbol 'J3:Shutter_current_limit_parts:Conn_01x02_PWR'.
+Info: Processing symbol 'J4:Shutter_current_limit_parts:Conn_01x02_PWR'.
+Info: Processing symbol 'K_coil1:Shutter_current_limit_parts:K_coil'.
+Info: Processing symbol 'K_coil2:Shutter_current_limit_parts:K_coil'.
+Info: Processing symbol 'K_cont1:Shutter_current_limit_parts:RLY_Conn_01x03'.
+Info: Processing symbol 'K_cont2:Shutter_current_limit_parts:RLY_Conn_01x03'.
+Info: Processing symbol 'Q1:Shutter_current_limit_parts:BS170'.
+Info: Processing symbol 'Q2:Shutter_current_limit_parts:BS170'.
+Info: Processing symbol 'Q3:Shutter_current_limit_parts:BS170'.
+Info: Processing symbol 'Q4:Shutter_current_limit_parts:BS170'.
+Info: Processing symbol 'Q5:Shutter_current_limit_parts:BS170'.
+Info: Processing symbol 'Q6:Shutter_current_limit_parts:BS170'.
+Info: Processing symbol 'R1:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R2:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R3:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R4:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R5:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R6:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R7:Shutter_current_limit_parts:Resistor_0.10_ohm_25W'.
+Info: Processing symbol 'R8:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R11:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R9:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R10:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R12:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R13:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R14:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'R15:Shutter_current_limit_parts:Resistor verticle'.
+Info: Processing symbol 'RV1:Shutter_current_limit_parts:POT'.
+Info: Processing symbol 'U1:Shutter_current_limit_parts:LM358'.
+Changed R5 value from Resistor verticle to 220 ohm.
+Updated R5 symbol association from  to /c313e15d-6741-432e-89da-beb2da8b9286.
+Updated R5 fields.
+Updated R5 sheetname to 'Root'.
+Updated R5 sheetfile to 'Shutter current limit.kicad_sch'.
+Updated R5 footprint filters to 'R_*'.
+Connected R5 pin 2 to Earth.
+Connected R5 pin 1 to Net-(R5-Pad1).
+Changed R reference designator to R4.
+Changed R4 value from Resistor verticle to 1.8K.
+Updated R4 symbol association from  to /79431ce1-9261-4aec-a076-326efacba76f.
+Added R8 (footprint 'Shutter_current_limit_parts:Resistor verticle').
+Changed R reference designator to R8.
+Changed R8 value from Resistor verticle to 30K.
+Updated R4 fields.
+Updated R8 fields.
+Updated R8 sheetname to 'Root'.
+Updated R8 sheetfile to 'Shutter current limit.kicad_sch'.
+Updated R8 footprint filters to 'R_*'.
+Connected R8 pin 1 to Net-(U1-+).
+Connected R8 pin 2 to Net-(R8-Pad2).
+Updated R4 sheetname to 'Root'.
+Updated R4 sheetfile to 'Shutter current limit.kicad_sch'.
+Updated R8 symbol association from  to /b33b5b55-8e6c-4672-9252-49ae49073433.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 1 to +12.
+Connected R4 pin 2 to Net-(R4-Pad2).
+Added R4 (footprint 'Shutter_current_limit_parts:Resistor verticle').
+Added R5 (footprint 'Shutter_current_limit_parts:Resistor verticle').
+Changed R reference designator to R5.
+Warning: No net found for component U1 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U1 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U1 pad 7 (no pin 7 in symbol).
+
+
+Info: Total warnings: 3, errors: 0.
